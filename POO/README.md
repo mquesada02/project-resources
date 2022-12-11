@@ -34,9 +34,9 @@ Este proyecto se desarrolló durante el segundo cuatrimestre del año 2022 para 
 ### Lenguajes y documentación utilizada
 
 * [![Java][Java-icon]][java-url]
-Durante el desarrollo del proyecto se utilizó Java 8. <a href="">Java Docs</a>
+Durante el desarrollo del proyecto se utilizó Java 8. <a href="https://docs.oracle.com/en/java/javase/17/docs/api/index.html">Java Docs</a>
 * [![JavaFX][Javafx-icon]][javafx-url]
-Durante el desarrollo del proyecto se utilizó el framework JavaFX <a href="">OpenJFX Docs</a>
+Durante el desarrollo del proyecto se utilizó el framework JavaFX <a href="https://openjfx.io/javadoc/19/">OpenJFX Docs</a>
 
 ### Pre-requisitos
 
@@ -51,5 +51,7 @@ y la descarga de los módulos de JavaFX
 * <a href="https://download2.gluonhq.com/openjfx/18.0.2/openjfx-18.0.2_linux-x64_bin-sdk.zip">Linux x64</a>
 
 
-[Java-icon]: https://img.shields.io/github/contributors/mquesada02/project-resources/POO/paint-resources/java-icon.svg?style=for-the-badge
+[Java-icon]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [java-url]: https://www.java.com/es/
+[Javafx-icon]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[javafx-url]: https://openjfx.io/
