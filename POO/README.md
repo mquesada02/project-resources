@@ -51,5 +51,5 @@ y la descarga de los módulos de JavaFX
 * <a href="https://download2.gluonhq.com/openjfx/18.0.2/openjfx-18.0.2_linux-x64_bin-sdk.zip">Linux x64</a>
 
 
-[Java-icon]: https://img.shields.io/github/contributors/mquesada02/project-resources/POO/paint-resources/java-icon.png
+[Java-icon]: https://img.shields.io/github/contributors/mquesada02/project-resources/POO/paint-resources/java-icon.png?style=for-the-badge
 [java-url]: https://www.java.com/es/
