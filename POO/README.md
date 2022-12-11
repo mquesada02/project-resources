@@ -58,22 +58,36 @@ y la descarga de los módulos de JavaFX
 
 
 Posteriormente, se debe guardar el path de la carpeta lib, ubicada dentro del archivo descomprimido de OpenJFX. Por ejemplo,
+
+
 ```/home/your_user/Documents/javafx-sdk-18.0.2/lib```
+
+
 y copiaremos en la clipboard los siguientes flags:
+
+
 ```--module-path PATH_GUARDADO --add-modules javafx.swt,javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web```
+
+
 , donde PATH_GUARDADO es el path guardado en la línea anterior.
 
 <a name="compile"></a>
 ### Compilación
 
 Para la compilación del programa, se debe descomprimir el archivo del proyecto, y ubicarse sobre la carpeta source, y ejecutar el siguiente comando:
+
+
 ```javac FLAGS_GUARDADOS frontend/AppLauncher.java```
+
 
 <a name="run"></a>
 ### Ejecución
 
 Para la ejecución del programa, se debe ejecutar el siguiente comando, ubicandose en la misma carpeta que el paso anterior:
+
+
 ```java FLAGS_GUARDADOS frontend/AppLauncher```
+
 
 <a name="contents"></a>
 ## Contenidos del programa
@@ -91,6 +105,8 @@ En el desarrollo del programa, se implementaron las siguientes funcionalidades:
 ## Contacto
 
 En caso de cualquier inconveniente, se puede comunicar a alguno de los colaboradores:
+
+
 <a href="camuller@itba.edu.ar">catamuller</a>
 <a href="tsmart@itba.edu.ar">tm-sm</a>
 <a href="ncasella@itba.edu.ar">NCasella</a>
