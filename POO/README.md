@@ -46,6 +46,7 @@ Para la compilación y ejecución del programa se requiere el descargar e instal
 * <a href="https://www.oracle.com/java/technologies/downloads/#java8-linux">Linux</a>
 <br/>
 y la descarga de los módulos de JavaFX
+<br/>
 * <a href="https://download2.gluonhq.com/openjfx/18.0.2/openjfx-18.0.2_windows-x64_bin-sdk.zip">Windows x64</a>
 * <a href="https://download2.gluonhq.com/openjfx/18.0.2/openjfx-18.0.2_osx-x64_bin-sdk.zip">macOs x64</a>
 * <a href="https://download2.gluonhq.com/openjfx/18.0.2/openjfx-18.0.2_linux-x64_bin-sdk.zip">Linux x64</a>
