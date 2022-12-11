@@ -27,7 +27,7 @@
 
 ## Acerca del proyecto
 
-[![Paint POO 2C2022]]paint-2c2022]]
+[![Paint POO 2C2022]paint-2c2022]](https://itba.edu.ar)
 
 Este proyecto se desarrolló durante el segundo cuatrimestre del año 2022 para la materia Programación Orientada a Objetos.
 
@@ -44,14 +44,18 @@ Para la compilación y ejecución del programa se requiere el descargar e instal
 * <a href="https://www.oracle.com/java/technologies/downloads/#java8-windows">Windows</a>
 * <a href="https://www.oracle.com/java/technologies/downloads/#java8-mac">macOS</a>
 * <a href="https://www.oracle.com/java/technologies/downloads/#java8-linux">Linux</a>
-<br/>
+
+
 y la descarga de los módulos de JavaFX
-<br/>
+
+
 * <a href="https://download2.gluonhq.com/openjfx/18.0.2/openjfx-18.0.2_windows-x64_bin-sdk.zip">Windows x64</a>
 * <a href="https://download2.gluonhq.com/openjfx/18.0.2/openjfx-18.0.2_osx-x64_bin-sdk.zip">macOs x64</a>
 * <a href="https://download2.gluonhq.com/openjfx/18.0.2/openjfx-18.0.2_linux-x64_bin-sdk.zip">Linux x64</a>
 
 
+
+[paint-2c2022]: https://github.com/mquesada02/project-resources/tree/main/POO/paint-resourcespaint-2022.jpeg
 [Java-icon]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [java-url]: https://www.java.com/es/
 [Javafx-icon]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
