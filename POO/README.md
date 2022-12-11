@@ -27,7 +27,7 @@
 
 ## Acerca del proyecto
 
-[![Paint POO 2C2022]paint-2c2022]](https://itba.edu.ar)
+[![Paint POO 2C2022][paint-2c2022]](https://itba.edu.ar)
 
 Este proyecto se desarrolló durante el segundo cuatrimestre del año 2022 para la materia Programación Orientada a Objetos.
 
