@@ -55,7 +55,7 @@ y la descarga de los módulos de JavaFX
 
 
 
-[paint-2c2022]: https://github.com/mquesada02/project-resources/tree/main/POO/paint-resources/paint-2022.jpeg
+[paint-2c2022]: https://github.com/mquesada02/project-resources/blob/main/POO/paint-resources/paint-2022.jpeg
 [Java-icon]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [java-url]: https://www.java.com/es/
 [Javafx-icon]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
