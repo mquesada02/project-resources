@@ -107,11 +107,13 @@ En el desarrollo del programa, se implementaron las siguientes funcionalidades:
 En caso de cualquier inconveniente, se puede comunicar a alguno de los colaboradores:
 
 
-<a href="camuller@itba.edu.ar">catamuller</a>
-<a href="tsmart@itba.edu.ar">tm-sm</a>
-<a href="ncasella@itba.edu.ar">NCasella</a>
-<a href="mquesada@itba.edu.ar">mquesada02</a>
+[catamuller](mailto:camuller@itba.edu.ar)
 
+[tm-sm](mailto:tsmart@itba.edu.ar)
+
+[NCasella](mailto:ncasella@itba.edu.ar)
+
+[mquesada](mailto:mquesada@itba.edu.ar)
 
 
 [paint-2c2022]: https://github.com/mquesada02/project-resources/blob/main/POO/paint-resources/paint-2022.jpeg
